@@ -2959,6 +2959,27 @@
     "CSharpLanguageVersion": 800
   },
   "RootNamespace": "CodingMilitia.PlayBall.GroupManagement.Web",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "Views\\Groups\\index.cshtml",
+      "TargetPath": "Views\\Groups\\index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Groups\\Details.cshtml",
+      "TargetPath": "Views\\Groups\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Groups\\Create.cshtml",
+      "TargetPath": "Views\\Groups\\Create.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }
